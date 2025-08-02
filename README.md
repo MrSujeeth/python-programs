@@ -1,3 +1,3 @@
-# pyton-programs
+# python-programs
 
 By Sujeeth
